@@ -42,7 +42,7 @@ You do not need anything installed on your machine, as you will be using Microso
 
 Imagine you need to develop and application to enable the visually impaired to see the world.  One of the great features of such an application would be automatically discovering the different sceneries from a photograph. This can be successfully done using neural networks.
 
-We will use the [Sceneries](https://www.robots.ox.ac.uk/~vgg/data/pets/) pets dataset that contains 7 sceneries, and build a model that can recognize different sceneries from the pictures.
+We will use the [Sceneries](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) pets dataset that contains 7 sceneries, and build a model that can recognize different sceneries from the pictures.
 
 ![Dataset we will deal with] ![image](https://user-images.githubusercontent.com/88496317/175192248-a952a3c4-b59f-46aa-aa27-c90433d6b916.png)
 
@@ -74,17 +74,11 @@ Stop at the unit **Use Convolutional Neural Network**, go to the end of the note
 
 ## Milestone 2: Getting the Data
 
-For our first task, we will use simplified **Sceneries** dataset
+We will use  the **Sceneries** dataset
 
-To download the dataset onto the sandbox, use the following code (copy-paste it into Jupyter cell and run it):
+To download the dataset, visit the following [Kaggle website](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) and click download 
 
-```python
-!wget https://mslearntensorflowlp.blob.core.windows.net/data/petfaces.tar.gz
-!tar xfz petfaces.tar.gz
-!rm petfaces.tar.gz
-```
-
-This will create a directory called `petfaces` on your sandbox virtual machine.
+Download and upload the data (with train, and test photos separated into folders) to your current working directory (e.g. in Azure Machine Learning studio)
 
 You can try to plot the dataset at this point. Feel free to use the following code to display the list of images:
 
