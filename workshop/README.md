@@ -71,7 +71,7 @@ Stop at the unit **Use Convolutional Neural Network**, go to the end of the note
 
 **We suggest you write your solution inside the sandbox**, using the cells at the end of the notebook. Learn Jupyter Sandbox supports GPU, which makes training your model faster. Also, you can always refer to the code in the cells above, in case you need to copy-paste parts of the code. 
 
-> If you want to work on the solution on your own machine, you can use [Faces.ipynb Notebook](Faces.ipynb) as a starting point, and [Pets.ipynb] for final optional milestone. However, having a GPU is heavily recommended.
+> If you want to work on the solution on your own machine, you can use [Scenery Notebook](https://github.com/andrewchancgc/microsoft-image-classi/blob/main/workshop/workshop%20walkthrough%20notebook.ipynb) as a starting point. However, having a GPU is heavily recommended.
 
 ## Milestone 2: Getting the Data
 
