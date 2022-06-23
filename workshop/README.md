@@ -1,6 +1,8 @@
 # Introduction to Deep Learning for Computer Vision
 
-In this workshop, you will learn the basics of Deep Learning for Computer Vision using one of the popular frameworks: [PyTorch](http://pytorch.org) or [Tensorflow](http://tensorflow.org). You can chose one of the frameworks that you will use.
+In this workshop, you will learn the basics of Deep Learning for Computer Vision using one of the popular frameworks: ![PyTorch](https://user-images.githubusercontent.com/88496317/175196373-8464efe5-9fba-4594-a93c-5cd9ab92616e.png)
+(http://pytorch.org) or ![image](https://user-images.githubusercontent.com/88496317/175196481-dca3b9fe-25b7-4927-bed2-7ac5c44af764.png)
+(http://tensorflow.org). You can chose one of the frameworks that you will use.
 
 <table border="0"><tr><td><img src="images/tensorflow.png" width="300"/></td><td><img src="images/pytorch.png" width="300"/></td></tr>
 <tr><td>
