@@ -36,7 +36,8 @@ You can also read this [short introduction to Neural Networks](https://soshnikov
 
 ## Prerequisites
 
-You do not need anything installed on your machine, as you will be using Microsoft Learn Sandbox to carry out the exercise. 
+Azure ML Subscription, 
+Download data from [Sceneries](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
 
 ## What students will learn
 
